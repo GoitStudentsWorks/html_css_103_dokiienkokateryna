@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yachtjet-project-group-19/",
+    "build": "vite build --base=/html_css_103_dokiienkokateryna/",
     "preview": "vite preview"
   },
   "devDependencies": {
